@@ -1,0 +1,5 @@
+# Scan output and generated pages contain usernames and paths: never commit
+data/
+explorer/
+*.json.gz
+__pycache__/
